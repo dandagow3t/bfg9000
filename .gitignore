@@ -1,0 +1,5 @@
+/target
+.env
+*.pe.txt
+*.notes.txt
+/documents
